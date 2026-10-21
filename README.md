@@ -1,0 +1,1 @@
+This repository consists of exercises of course "Introduction To TypeScript" from coddy.tech
